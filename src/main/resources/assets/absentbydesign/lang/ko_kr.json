@@ -11,7 +11,21 @@
   "block.absentbydesign.gate_prismarine_dark":"짙은 프리즈머린 울타리 문",
   "block.absentbydesign.gate_purpur":"퍼퍼 울타리 문",
   
-    
+  "block.absentbydesign.trapdoor_granite":"화강암 다락문",
+  "block.absentbydesign.trapdoor_stone":"돌 다락문",
+  "block.absentbydesign.trapdoor_andesite":"안산암 다락문",
+  "block.absentbydesign.trapdoor_diorite":"섬록암 다락문",
+  "block.absentbydesign.trapdoor_purpur":"퍼퍼 다락문",
+  "block.absentbydesign.trapdoor_quartz":"석영 다락문",
+  "block.absentbydesign.trapdoor_stone_bricks":"석재 벽돌 다락문",
+  "block.absentbydesign.trapdoor_blackstone":"흑암 다락문",
+  "block.absentbydesign.trapdoor_blackstone_bricks":"흑암 벽돌 다락문",
+  "block.absentbydesign.trapdoor_end_stone":"엔드 돌 다락문",
+  "block.absentbydesign.trapdoor_bricks":"벽돌 다락문",
+  "block.absentbydesign.trapdoor_basalt":"현무암 다락문",
+  
+  
+  
   "block.absentbydesign.slab_glass":"유리 반 블록",
   "block.absentbydesign.slab_glass_orange":"주황색 색유리 반 블록",
   "block.absentbydesign.slab_glass_white":"하얀색 색유리 반 블록",
@@ -204,7 +218,7 @@
 	"block.absentbydesign.stairs_polished_basalt": "윤나는 현무암 계단",
 	"block.absentbydesign.stairs_prismarine": "프리즈머린 계단",
 	"block.absentbydesign.stairs_prismarine_bricks": "프리즈머린 벽돌 계단",
-	"block.absentbydesign.stairs_prismarine_dark": "프리즈머린 Dark 계단",
+	"block.absentbydesign.stairs_prismarine_dark": "짙은 프리즈머린 계단",
 	"block.absentbydesign.stairs_quartz_bricks": "석영 벽돌 계단",
 	"block.absentbydesign.stairs_red_mushroom": "빨간색 버섯 계단",
 	"block.absentbydesign.stairs_sea_lantern": "바다 랜턴 계단",
